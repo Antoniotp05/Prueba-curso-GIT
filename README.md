@@ -1,19 +1,31 @@
 VIDEO1 
 
+
+
 Practica 1
-Fue sencillo a sido poner una placa Arduino Uno R3, y una placa de pruebas pequeñas, en la cual esta conectada una resistencia de 20 Ω y una LED roha con integración alta y baja que entre las dos tienen una espera de 1 segundo para encender y apagar, la resistencia y el LED estan conectadas a la placa arduino, la resistencia esta conectada al puerto 13, el Led a la toma GNS (TIERRA).
+Fue sencillo a sido poner una placa Arduino Uno R3, y una placa de pruebas pequeñas, en la cual esta conectada una resistencia de 20 Ω y una LED roha con integración alta y baja que entre las dos tienen una espera de 1 segundo para encender y apagar, la resistencia y el LED estan conectadas a la placa arduino, la resistencia esta conectada al puerto 13, el Led a la toma GNS (TIERRA). https://www.tinkercad.com/things/8EzSHVasbiT-encendido-led?sharecode=ZRa7p08JFmwTDetClhrDcerLKguUwgn0tLWRguholsw
+
+
 
 Practica 2
-Hice algo parecido a lo anterior pero esta vez conecte tres LED con tres resistencias cada una con con 220 Ω, los LEDs estan conectados en los puertos 12,11,10 en la placa arduino, en los LED hay un cable de color negro que representa el lado negativo de los LED y esta conectao en la toma GND (TIERRA) , en los códigos tienen un tiempo de 50 el cual es un int que globaliza el tiempo en los LEDs que la placa, pongamos que cambiamos el tiempo a 1000 los tres LEDs tendran ese tiempo de espera.
+Hice algo parecido a lo anterior pero esta vez conecte tres LED con tres resistencias cada una con con 220 Ω, los LEDs estan conectados en los puertos 12,11,10 en la placa arduino, en los LED hay un cable de color negro que representa el lado negativo de los LED y esta conectao en la toma GND (TIERRA) , en los códigos tienen un tiempo de 50 el cual es un int que globaliza el tiempo en los LEDs que la placa, pongamos que cambiamos el tiempo a 1000 los tres LEDs tendran ese tiempo de espera. https://www.tinkercad.com/things/iRXXaoGOjvM-led-secuenciales-?sharecode=bVpEnknlj5E2Bdo6X6NmkA5mgGRdmrCkLsGQM0rNGoY
+
+
 
 Practica 3
 Hemos cogido una placa arduino y hemos conectado 5 LEDs de diferentes colores que llevan 5 resistencias de 220 Ω, las resistencias estan conectadas en las tomas 12,11,10,,9,8, los lados negativos de los LEDs que se llaman cátodos estan conectados al lado negativo de arriba y hay otra toma negativa conectada en GND (TIERRA), luego los códigos parecido a la practica anterior, pero en diferencia con la anterior es que usamos bucle for que para repetir un bloque de códigos un número determinado de veces. 
+https://www.tinkercad.com/things/4hhdhH7mJjb-uso-de-bucle-for-?sharecode=eA2yvwNNxhNPgtsAkBogPZFVJZ1S3JcoQlw-QihBlrQ
+
+
 
 Practica 4
-Ha sido una practica meclada con un poco de bucle for y algo nuevo, que es el uso de Subrutinas
+Ha sido una practica meclada con un poco de bucle for y algo nuevo, que es el uso de Subrutinas https://www.tinkercad.com/things/0lE87Jn1NkV-uso-de-subrutinas
+
+
 
 Practica 5
-Se a puesto a prueba las salidas analógicas usando el comando analogWrite para reflejar la intesidad de la electricidad
+Se a puesto a prueba las salidas analógicas usando el comando analogWrite para reflejar la intesidad de la electricidad https://www.tinkercad.com/things/cvI9m73xJuZ-salidas-analogicas-pwm?sharecode=cbpQtJGit6ZliWeUtw3Ipye5eGOfXcUnXfH_I_v-jFQ
+
 
 
 VIDEO2 
